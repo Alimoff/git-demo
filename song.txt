@@ -1,6 +1,13 @@
 Sword and spear
 Wall of shields
+<<<<<<< HEAD
 
 ---------------
 
 Add new line
+=======
+Standing strong
+on this their chosen battle field
+
+Adding new couplet
+>>>>>>> ba72b64daf7290b833e11a7f3508c2f8cbb0c93f
