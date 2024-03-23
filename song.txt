@@ -1,7 +1,7 @@
-Sword and spear
-<<<<<<< HEAD
-Wall of shields
+THIS IS THE MASTER BRANCH
 
+Sword and spear
+Wall of shields
 
 Add new line
 Standing strong
